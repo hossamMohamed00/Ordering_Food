@@ -1,6 +1,6 @@
 # Online Ordering System
  
-###The features of this system are the following
+### The features of this system are the following
 - upload product design online
 - add, edit, delete product
 - send order confirmation via email
